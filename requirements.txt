@@ -1,0 +1,2 @@
+fastapi==0.64.0
+uvivorn==0.13.4
